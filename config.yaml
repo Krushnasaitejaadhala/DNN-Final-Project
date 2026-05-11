@@ -4,6 +4,7 @@
 # Project: Narrative Frame Prediction via Multimodal Learning
 # ============================================================
 
+
 data:
   source: "daniel3303/StoryReasoning"
   img_resize: 256
